@@ -56,4 +56,5 @@ server.
 
 ## Flow of application :
 ## Step 1: Enter IP ADDRESS
+![SF](https://github.com/Supermathew/ChatOnLan-Chatting-application/blob/main/ChatOnLan/images/1IPASK.png)
 
