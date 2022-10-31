@@ -21,23 +21,13 @@ within the university to serve students to exchange views and the ideas with
 each other. also between students and staff members and enrichment the
 dialogue about the courses. What we want to do is create a chat room to be
 secure and convenient for all participants.
-Equipped with the following benefits:
-1. System will be a two separate applications server and client.
-2. System's ability to connection multiple clients on a single server.
-3. Graphical interface GUI system for ease of use.
-4. Client can Login through the nickname of the connect.
-5. Client can navigate through listed groups through the server.
-6. All clients messages are passed through the server as a kind of control. 
-7. Clients can print the messages received from the server.
-8. The server must print out information when an event happens (connection,
-disconnection, chat).
-9. The server does not allow multiple clients to get the same nickname.
 
-10.The server must echo chat messages back to all the clients (including the
-source).
+## Guide 
 
-11.Clients connecting and disconnecting with the server must not disrupt the
-server. 
+The host need to start the server then share the ipaddress with all the client that are willing to connect to the host and join the chatroom.
+
+
+
 
 ## Software requirements:
 
@@ -55,6 +45,9 @@ server.
 2. BACK END: Java Socket Programming
 
 ## Flow of application :
-## Step 1: Enter IP ADDRESS
-![SF](https://github.com/Supermathew/ChatOnLan-Chatting-application/blob/main/ChatOnLan/images/1IPASK.png)
+ https://github.com/Supermathew/ChatOnLan-Chatting-application/tree/main/ChatOnLan/images" </a> 
+ check this to know about detail screenshot of our chat application .
+ 
+ 
+ if you liked this project make sure to give this repo a star.
 
