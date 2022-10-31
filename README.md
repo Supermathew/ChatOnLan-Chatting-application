@@ -1,3 +1,12 @@
+Other contributor 
+
+[DheerenGaud](https://github.com/DheerenGaud).
+
+[PRO-MOD](https://github.com/PRO-MOD).
+
+[Daditya96k](https://github.com/Daditya96k).
+
+
 # ChatOnLan-Chatting-application
 The objective of our project is to build a chatting system to facilitate the student-staff communication to obtain an effective channel among the students themselves and between them and their staff. For the application itself, this system can serve as a link to reach out for all students and staffs. 
 
